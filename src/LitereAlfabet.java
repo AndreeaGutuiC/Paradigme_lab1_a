@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class LitereAlfabet {
 
     public void Afis() {
@@ -7,8 +10,4 @@ public class LitereAlfabet {
             System.out.print(alfa);
         }
     }
-
-
-
-
 }
